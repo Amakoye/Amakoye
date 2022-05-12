@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ✨ I convert designs into code using React & Material-UI
 - ✨ I am currently Learning Back-End Development with Node.js, Express.js and Django
 - ✨ I am open to gigs [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/charles-amakoye/)](https://www.linkedin.com/in/charles-amakoye/)
-- ✨ I am open more learning and growth opportunities
+- ✨ I am open to more learning and growth opportunities
 
 ### Stats 📝📒
 
